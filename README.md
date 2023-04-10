@@ -11,9 +11,11 @@ Ce module ne fonctionne pas très bien pour trouver les vecteurs propres des mat
 J'ai inclus des exemples de chaque type de conique que j'ai étudié en cours de géométrie, pour pouvoir vérifier chaque partie de mon code.
 
 ---
+
 **DISCLAIMER**
 
 Ce rep a pour unique but de m'aider à appliquer nos méthodes de résolutions vues en cours ; en écrivant et en relisant un programme qui peut résoudre des exercices, c'est parfois plus facile de comprendre ce qu'il faut faire à chaque étape de la résolution, mais en restant dans le cas général pour ne pas avoir la solution à un seul problème, ce qui est à mon sens le principal défaut de faire une liste d'exercices pour réviser.
+
 ---
 
 ## Structure
