@@ -5,7 +5,7 @@
 Implémentation de certaines notions de géométrie, spécifiquement au programme de Géométrie 2 (L3 Mathématiques, AMU). Permet notamment d'obtenir des détails sur les aspects géométriques de certaines coniques en fonction des équations les définissant.
 Utilise les modules `numpy` et `sympy`.
 
-Utilise aussi le module [https://github.com/ChrisMzz/algch/releases](`algch_chris_mzz`) que j'ai écrit pour calculer certains espaces propres.
+Utilise aussi le module [`algch_chris_mzz`](https://github.com/ChrisMzz/algch/releases) que j'ai écrit pour calculer certains espaces propres.
 Ce module ne fonctionne pas très bien pour trouver les vecteurs propres des matrices associées aux parties quadratiques, mais semble fonctionner suffisamment bien pour trouver l'axe focal dans le cas où la conique est une parabole.
 
 J'ai inclus des exemples de chaque type de conique que j'ai étudié en cours de géométrie, pour pouvoir vérifier chaque partie de mon code.
