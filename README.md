@@ -59,7 +59,7 @@ En effet, les paraboles n'ont pas de centre et le calcul nécessaire pour le tro
 
 Le plus simple des trois cas, $q$ à centre, définie. 
 Pour trouver des détails sur les aspects géométriques d'une ellipse, il faut trouver les vecteurs propres (et donc les valeurs propres) de la partie quadratique $q$, pour déterminer les axes (directeurs ?) de l'ellipse dans la base canonique. Avec un changement de base, on peut écrire l'équation réduite de l'ellipse : 
-$$\lambda_1 x^2 + \lambda_2 y_2 = f(\Omega)$$
+$$\lambda_1 x^2 + \lambda_2 y^2 = f(\Omega)$$
 où $\lambda_1, \lambda_2$ sont les valeurs propres de $q$ et $\Omega$ est le centre de l'ellipse, trouvé en cherchant le vecteur qui annule le gradient de $f$, qu'on note $\nabla f$.
 
 ### Hyperbole
